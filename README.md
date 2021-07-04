@@ -16,4 +16,4 @@ only projects made in teams, this file is made for clearing out what have i done
 - Musics and sound effects
 
 #### AI-Car-Driver
-- All functionality of the environment and the AI-agent
+- All functionality of the environment and of the AI-agent
